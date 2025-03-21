@@ -1,0 +1,27 @@
+.cabecalho {
+    background-color: rgb(13, 9, 36);
+    color: white;
+    text-align: center;
+    position: relative;
+    padding: 5px;
+    font-family: 'Arial';
+}
+
+.cabecalho_carnaval {
+    background-color: rgb(103, 4, 90);
+    color: rgb(4, 73, 9);
+    text-align: center;
+    position: relative;
+    padding: 5px;
+    font-family: 'Arial';
+}
+
+.titulo_site {
+    color: yellow;
+    font-size: 60px;
+}
+
+.subtitulo_site {
+    color: rgb(2, 89, 126);
+    font-size: 40px;
+}
