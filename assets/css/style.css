@@ -34,6 +34,7 @@
     list-style-type: none;
     padding: 0;
     display: flex;
+    gap:15px;
 }
 .item-menu {
     padding: 0;    
@@ -47,6 +48,5 @@
 .link-menu :hover{
     color: red;
 }
-
 
 
