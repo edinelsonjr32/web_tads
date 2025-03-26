@@ -49,4 +49,28 @@
     color: red;
 }
 
-
+#sobre-mim {
+    background-color: #fff7f7;
+}
+h2 {
+    font-family: Arial;
+    font-size: 24px;
+    text-align: center;
+    color: #0c0b0b;
+}
+p {
+    text-align: justify;
+    padding: 10px;
+}
+.img-container{
+    display: flex;
+    position: relative;
+    
+}
+.img-user {
+    width: 75px;
+    height: 75px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
