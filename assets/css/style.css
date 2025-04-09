@@ -23,8 +23,9 @@
 
 .subtitulo_site {
     color: rgb(2, 89, 126);
-    font-size: 40px;
+    font-size: 28px;
 }
+
 .menu {
     justify-content: center;
     align-items: center;
@@ -73,4 +74,21 @@ p {
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
+}
+
+.portfolio {
+    background-color: rgb(13, 9, 36);
+
+}
+.portfolio_img {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 20px;
+}
+
+.titulo_portfolio {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    padding: 10px;
 }
